@@ -1,0 +1,7 @@
+# Photos and output directories
+initial photo/
+output/
+Vik/
+
+# macOS
+.DS_Store
